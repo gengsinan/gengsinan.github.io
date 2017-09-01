@@ -1,0 +1,15 @@
+body {
+	background: #E7E7E7;
+}
+
+#backGround {
+	position: fixed;
+	margin: auto;
+	left: 0;
+	right: 0;
+
+	width: 334px;
+	height:  392px;
+
+	background: url(../img/background.jpg);
+}
